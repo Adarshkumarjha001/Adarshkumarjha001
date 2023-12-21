@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2OsGYchUXumgy-0aaiaQGsz2W0ZyP1Xnc1zButJdPKLIwGc9cjiQb8sscQg&s">
+<img align="center" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2OsGYchUXumgy-0aaiaQGsz2W0ZyP1Xnc1zButJdPKLIwGc9cjiQb8sscQg&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshkumarjha001&label=Profile%20views&color=0e75b6&style=flat" alt="adarshkumarjha001" /> </p>
 
